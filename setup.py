@@ -8,15 +8,15 @@ with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
 setuptools.setup(
-    name="lbt-ladybug",
+    name="lbt-honeybee",
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
     author="Ladybug Tools",
     author_email="info@ladybug.tools",
-    description="Collection of all Ladybug core Python libraries",
+    description="Collection of all Honeybee core Python libraries",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ladybug-tools/lbt-ladybug",
+    url="https://github.com/ladybug-tools/lbt-honeybee",
     packages=setuptools.find_packages(),
     install_requires=requirements,
     extras_require={
