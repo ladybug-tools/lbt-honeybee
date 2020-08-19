@@ -20,7 +20,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=requirements,
     extras_require={
-        'cli': ['click==7.1.2', "honeybee-schema==1.36.1;python_version>='3.6'"]
+        'cli': ['click==7.1.2', "honeybee-schema==1.37.0;python_version>='3.6'"]
     },
     classifiers=[
         "Programming Language :: Python :: 2.7",
