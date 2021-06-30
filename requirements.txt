@@ -1,4 +1,4 @@
-honeybee-radiance==1.42.14
+honeybee-radiance==1.42.15
 honeybee-energy-standards==2.1.4
 honeybee-energy==1.76.7
 lbt-ladybug==0.25.75
