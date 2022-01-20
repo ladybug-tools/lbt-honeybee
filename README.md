@@ -15,7 +15,7 @@ extensions libraries together.
 
 ## Included Honeybee Extensions
 
-Running `pip install lbt-honeybee` will result in the installation of the following
+Running `pip install lbt-honeybee -U` will result in the installation of the following
 honeybee Python packages:
 
 * [honeybee-radiance](https://github.com/ladybug-tools/honeybee-radiance)
