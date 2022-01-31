@@ -36,4 +36,6 @@ dependencies are also included:
 
 Since honeybee uses ladybug, the following is also included:
 
-* [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)
+* [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry)
+* [ladybug-core](https://github.com/ladybug-tools/ladybug)
+* [ladybug-comfort](https://github.com/ladybug-tools/ladybug-comfort)
