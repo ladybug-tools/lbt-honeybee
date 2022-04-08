@@ -13,6 +13,12 @@ Note that this repository and corresponding Python package does not contain any 
 code and it simply exists to provide a shortcut for installing all of the honeybee
 extensions together.
 
+## Installation
+
+```console
+pip install -U lbt-honeybee
+```
+
 ## Included Honeybee Extensions
 
 Running `pip install lbt-honeybee -U` will result in the installation of the following
