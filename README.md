@@ -46,3 +46,4 @@ Since honeybee uses ladybug, the following is also included:
 * [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry)
 * [ladybug-core](https://github.com/ladybug-tools/ladybug)
 * [ladybug-comfort](https://github.com/ladybug-tools/ladybug-comfort)
+* [ladybug-display](https://github.com/ladybug-tools/ladybug-display)
