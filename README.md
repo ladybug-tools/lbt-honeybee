@@ -11,7 +11,7 @@ A collection of Honeybee core Python libraries and extensions.
 
 Note that this Python package and corresponding repository does not contain any source
 code and it simply exists to provide a shortcut for installing all of the honeybee
-extensions together.
+extension packages together.
 
 ## Installation
 
