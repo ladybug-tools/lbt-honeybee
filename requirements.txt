@@ -1,4 +1,4 @@
 honeybee-radiance-postprocess==0.4.121
-honeybee-energy[standards]==1.95.31
+honeybee-energy[standards]==1.95.32
 honeybee-display==0.2.12
 lbt-ladybug==0.26.37
