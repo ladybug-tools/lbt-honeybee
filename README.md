@@ -30,6 +30,7 @@ honeybee Python packages:
 * [honeybee-radiance-command](https://github.com/ladybug-tools/honeybee-radiance-command)
 * [honeybee-energy](https://github.com/ladybug-tools/honeybee-energy)
 * [honeybee-energy-standards](https://github.com/ladybug-tools/honeybee-energy-standards)
+* [honeybee-display](https://github.com/ladybug-tools/honeybee-display)
 
 ## Included Honeybee Core Libraries
 
