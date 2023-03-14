@@ -1,4 +1,5 @@
 .dependabot
 .github
+pass_tests.py
 
 Dockerfile
