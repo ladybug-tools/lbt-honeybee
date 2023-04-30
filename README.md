@@ -16,7 +16,7 @@ extension packages together.
 ## Installation
 
 ```console
-pip install -U lbt-honeybee
+pip install lbt-honeybee -U
 ```
 
 ## Included Honeybee Extensions
@@ -34,7 +34,7 @@ honeybee Python packages:
 
 ## Included Honeybee Core Libraries
 
-Since both honeybee extensions use the honeybee core libraries, the following
+Since the honeybee extensions use the honeybee-core libraries, the following
 dependencies are also included:
 
 * [honeybee-core](https://github.com/ladybug-tools/honeybee-core)
