@@ -24,13 +24,13 @@ pip install lbt-honeybee -U
 Running `pip install lbt-honeybee -U` will result in the installation of the following
 honeybee Python packages:
 
+* [honeybee-display](https://github.com/ladybug-tools/honeybee-display)
 * [honeybee-radiance](https://github.com/ladybug-tools/honeybee-radiance)
 * [honeybee-radiance-postprocess](https://github.com/ladybug-tools/honeybee-radiance-postprocess)
 * [honeybee-radiance-folder](https://github.com/ladybug-tools/honeybee-radiance-folder)
 * [honeybee-radiance-command](https://github.com/ladybug-tools/honeybee-radiance-command)
 * [honeybee-energy](https://github.com/ladybug-tools/honeybee-energy)
 * [honeybee-energy-standards](https://github.com/ladybug-tools/honeybee-energy-standards)
-* [honeybee-display](https://github.com/ladybug-tools/honeybee-display)
 
 ## Included Honeybee Core Libraries
 
