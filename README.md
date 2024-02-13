@@ -42,7 +42,7 @@ dependencies are also included:
 
 ## All Ladybug Packages Are Also Included
 
-Since honeybee uses ladybug, the following is also included:
+Since honeybee uses ladybug, the following are also included (installed through [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)):
 
 * [ladybug-geometry](https://github.com/ladybug-tools/ladybug-geometry)
 * [ladybug-core](https://github.com/ladybug-tools/ladybug)
