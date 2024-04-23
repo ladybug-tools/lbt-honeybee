@@ -1,9 +1,9 @@
 
 ![Honeybee](http://www.ladybug.tools/assets/img/honeybee.png)
 
-[![Build Status](https://github.com/ladybug-tools/lbt-honeybee/workflows/CI/badge.svg)](https://github.com/ladybug-tools/lbt-honeybee/actions)
+[![Build Status](https://github.com/ladybug-tools/lbt-honeybee/actions/workflows/ci.yaml/badge.svg)](https://github.com/ladybug-tools/lbt-honeybee/actions)
 
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-orange.svg)](https://www.python.org/downloads/release/python-3100/) [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 # lbt-honeybee
 
