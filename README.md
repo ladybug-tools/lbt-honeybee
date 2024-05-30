@@ -40,7 +40,7 @@ dependencies are also included:
 * [honeybee-core](https://github.com/ladybug-tools/honeybee-core)
 * [honeybee-schema](https://github.com/ladybug-tools/honeybee-schema)
 
-## All Ladybug Packages Are Also Included
+## Also Included (All Ladybug Packages)
 
 Since honeybee uses ladybug, the following are also included (installed through [lbt-ladybug](https://github.com/ladybug-tools/lbt-ladybug)):
 
