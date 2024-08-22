@@ -7,7 +7,7 @@
 
 # lbt-honeybee
 
-A collection of Honeybee core Python libraries and extensions.
+A collection of Honeybee core Python libraries and Honeybee extensions.
 
 Note that this Python package and corresponding repository does not contain any source
 code and simply exists to provide a shortcut for installing all of the honeybee
