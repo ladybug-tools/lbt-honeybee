@@ -1,4 +1,4 @@
 honeybee-radiance-postprocess==0.4.541
-honeybee-energy[openstudio,standards]==1.116.45
+honeybee-energy[openstudio,standards]==1.116.46
 honeybee-display==0.5.4
 lbt-ladybug==0.27.149
